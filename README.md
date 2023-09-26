@@ -1,1 +1,1 @@
-# EDA
+# Diabetes Prediction
